@@ -1,3 +1,3 @@
-# YAKP-Repos1
-Repositiry for test
-Some changes were made here
+# Yuliia Kovalchak:
+Repositiry for test.
+Some new changes were made here.
